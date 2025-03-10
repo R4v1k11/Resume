@@ -11,9 +11,9 @@
     </style>
 </head>
 <body>
-    <h1>Имя Фамилия</h1>
-    <p><strong>Профессия:</strong> Веб-разработчик</p>
-    <p><strong>Email:</strong> example@email.com</p>
+    <h1>Rovlan Aliev</h1>
+    <p><strong>Профессия:</strong> Frontend-engineer</p>
+    <p><strong>Email:</strong> rovlik1144@gmail.com</p>
     <h2>Навыки</h2>
     <ul>
         <li>HTML, CSS,</li>
